@@ -1,7 +1,7 @@
 # RohTayteTheTimelessSpace 
 
 ## Introduction
-**"Roh Tayte – The Timeless Space"** is a 3D single player video game. The player slips into the role of a cute fox named Roh Tayte. Roh travels through various open 3D worlds, that each have a basic theme and are divided into several areas. In these areas, the player has to master exciting and sometimes challenging puzzle and skill passages. Depending on which area he is currently in, Roh has different abilities to manipulate time or space so that he can overcome obstacles or reach collectibles. Manipulating gravity, rotating objects and traveling between two dimensions are some examples for these abilities. 
+**"Roh Tayte – The Timeless Space"** is a 3D single player video game. The player slips into the role of a cute fox named Roh Tayte. Roh travels through various open 3D worlds, that each have a basic theme and are divided into several areas. In these areas, the player has to master exciting and sometimes challenging puzzle and skill passages. Depending on which area he is currently in, Roh has different abilities to manipulate time or space so that he can overcome obstacles or reach collectibles. Manipulating gravity, rotating objects and traveling between two dimensions are some examples for these abilities. <br>
 The game was developed using the Unity game engine and C# during our Bachelor‘s programme at Hof University of Applied Sciences in the lecture „Game Design 3D“. As part of the lecture, a green natural world was implemented with a forest, a lake landscape, a tree and a mountain as areas. In order to leave the further development of the game open, no code will be published in this repository.
 <br>
 
